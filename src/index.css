@@ -1,0 +1,8 @@
+/*
+El formato de estilo aplica para toda la aplicación, ya si solo quiere sea de un solo componente
+se hace mediante modulo de app.css
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
